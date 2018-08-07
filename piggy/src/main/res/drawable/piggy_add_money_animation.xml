@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/piggy_pattern"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/piggy_add_money_part_1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/piggy_add_money_part_2"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/piggy_add_money_part_3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/piggy_add_money_part_4"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/piggy_add_money_part_5"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/piggy_pattern"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/piggy_add_money_part_1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/piggy_add_money_part_2"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/piggy_add_money_part_3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/piggy_add_money_part_4"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/piggy_add_money_part_5"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/piggy_pattern"
+        android:duration="200" />
+
+</animation-list>
