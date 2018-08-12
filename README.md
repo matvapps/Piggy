@@ -1,8 +1,4 @@
-# DashboardView
-
-### Preview
-
-<img src="/images/dashboard_preview.gif?raw=true" width="640px">
+# PiggyView
 
 
 Easy in use android library for creating dashboard. With this library you
@@ -29,22 +25,22 @@ and gravity must be top
 
 #### By default, when you init PiggyView obj the piggy already starts blinking animation
 
-<img src="/images/dashboard_preview.gif?raw=true" width="640px">
+<img src="/images/piggy_preview.gif?raw=true" width="400px">
 
 #### also if you click on the piggy (kick it), then starts crying animation
 
-<img src="/images/dashboard_preview.gif?raw=true" width="640px">
+<img src="/images/piggy_cry.gif?raw=true" width="400px">
 
 #### and if you stroke the piggy starts joy animation
 
-<img src="/images/dashboard_preview.gif?raw=true" width="640px">
+<img src="/images/piggy_joy.gif?raw=true" width="400px">
 
 #### You can add money to piggy using:
 
 ```java
   piggy.startAddingMoney();
 ```
-<img src="/images/dashboard_preview.gif?raw=true" width="640px">
+<img src="/images/piggy_add.gif?raw=true" width="400px">
 
 
 
@@ -56,7 +52,7 @@ and money will be poured from the piggy bank
 ```java
   piggy.startGetMoney();
 ```
-<img src="/images/dashboard_preview.gif?raw=true" width="640px">
+<img src="/images/piggy_get.gif?raw=true" width="400px">
 
 
 
